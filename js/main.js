@@ -295,9 +295,17 @@ $(document).ready( function() {
     });
   });
 
+
+  $("#wisconsin").click( function() {
+    $("body").css({
+      "backgroundImage": "url('Images/wyomcap.jpg')"
+    });
+  });
+
+
   $("#puerto").click( function() {
     $("body").css({
-      "backgroundImage": "url('Images/prcap.jpg')"
+      "backgroundImage": "url('Images/wisconcap.jpg')"
     });
   });
 
