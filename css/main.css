@@ -40,25 +40,57 @@ h1 {
 }
 #florida {
   border-color: red;
-  top: 08%;
-  left: 34%;
+  top: 82%;
+  left: 79%;
 }
 #florida:hover {
   background-color: red;
 }
 #maryland {
   border-color: blue;
-  top: 09%;
-  left: 65%;
+  top: 40%;
+  left: 83%;
 }
 #maryland:hover {
   background-color: blue;
 }
 #california {
   border-color: yellow;
-  top: 34%;
-  left: 56.5%;
+  top: 46%;
+  left: 6%;
 }
 #california:hover {
+  background-color: yellow;
+}
+#alabama {
+  border-color: pink;
+  top: 46%;
+  left: 6%;
+}
+#alabama:hover {
+  background-color: yellow;
+}
+#alaska {
+  border-color: blue;
+  top: 46%;
+  left: 6%;
+}
+#alaska:hover {
+  background-color: yellow;
+}
+#arizona {
+  border-color: red;
+  top: 46%;
+  left: 6%;
+}
+#arizona:hover {
+  background-color: yellow;
+}
+#arkansas {
+  border-color: yellow;
+  top: 46%;
+  left: 6%;
+}
+#arkansas:hover {
   background-color: yellow;
 }
