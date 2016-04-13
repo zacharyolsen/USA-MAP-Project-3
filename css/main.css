@@ -64,33 +64,161 @@ h1 {
 }
 #alabama {
   border-color: pink;
-  top: 46%;
-  left: 6%;
+  top: 69%;
+  left: 67%;
 }
 #alabama:hover {
   background-color: yellow;
 }
 #alaska {
   border-color: blue;
-  top: 46%;
-  left: 6%;
+  top: 82%;
+  left: 12%;
 }
 #alaska:hover {
   background-color: yellow;
 }
 #arizona {
   border-color: red;
-  top: 46%;
-  left: 6%;
+  top: 60%;
+  left: 22%;
 }
 #arizona:hover {
   background-color: yellow;
 }
 #arkansas {
   border-color: yellow;
-  top: 46%;
-  left: 6%;
+  top: 64%;
+  left: 57%;
 }
 #arkansas:hover {
+  background-color: yellow;
+}
+#colorado {
+  border-color: pink;
+  top: 46%;
+  left: 34%;
+}
+#colorado:hover {
+  background-color: yellow;
+}
+#connecticut {
+  border-color: blue;
+  top: 30%;
+  left: 89%;
+}
+#connecticut:hover {
+  background-color: yellow;
+}
+#delaware {
+  border-color: red;
+  top: 41%;
+  left: 86%;
+}
+#delaware:hover {
+  background-color: yellow;
+}
+#georgia {
+  border-color: yellow;
+  top: 69%;
+  left: 74%;
+}
+#georgia:hover {
+  background-color: yellow;
+}
+#hawaii {
+  border-color: pink;
+  top: 95%;
+  left: 34%;
+}
+#hawaii:hover {
+  background-color: yellow;
+}
+#idaho {
+  border-color: blue;
+  top: 25%;
+  left: 20%;
+}
+#idaho:hover {
+  background-color: yellow;
+}
+#illinois {
+  border-color: red;
+  top: 44%;
+  left: 62%;
+}
+#illinois:hover {
+  background-color: yellow;
+}
+#indiana {
+  border-color: yellow;
+  top: 42%;
+  left: 67%;
+}
+#indiana:hover {
+  background-color: yellow;
+}
+#iowa {
+  border-color: pink;
+  top: 37%;
+  left: 54%;
+}
+#iowa:hover {
+  background-color: yellow;
+}
+#kansas {
+  border-color: blue;
+  top: 48%;
+  left: 46%;
+}
+#kansas:hover {
+  background-color: yellow;
+}
+#kentucky {
+  border-color: red;
+  top: 51%;
+  left: 70%;
+}
+#kentucky:hover {
+  background-color: yellow;
+}
+#louisiana {
+  border-color: yellow;
+  top: 77%;
+  left: 57%;
+}
+#louisiana:hover {
+  background-color: yellow;
+}
+#maine {
+  border-color: pink;
+  top: 20%;
+  left: 65%;
+}
+#maine:hover {
+  background-color: yellow;
+}
+#mass {
+  border-color: blue;
+  top: 48%;
+  left: 46%;
+}
+#mass:hover {
+  background-color: yellow;
+}
+#michigan {
+  border-color: red;
+  top: 51%;
+  left: 70%;
+}
+#michigan:hover {
+  background-color: yellow;
+}
+#minnesota {
+  border-color: yellow;
+  top: 77%;
+  left: 57%;
+}
+#minnesota:hover {
   background-color: yellow;
 }
