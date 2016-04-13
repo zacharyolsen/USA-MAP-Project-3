@@ -3,8 +3,9 @@ body {
   margin: 0;
 }
 body {
-  background: url("somuchamerica.png") no-repeat center fixed;
   background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
 }
 h1 {
   text-align: center;
@@ -445,5 +446,13 @@ h1 {
   left: 90%;
 }
 #puerto:hover {
+  background-color: yellow;
+}
+#washdc {
+  border-color: blue;
+  top: 50%;
+  left: 80%;
+}
+#washdc:hover {
   background-color: yellow;
 }
