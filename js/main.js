@@ -302,7 +302,7 @@ $(document).ready( function() {
   });
 
 
-  $("#dc").click( function() {
+  $("#washdc").click( function() {
     $("body").css({
       "backgroundImage": "url('Images/dccap.jpg')"
     });
