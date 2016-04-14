@@ -298,14 +298,14 @@ $(document).ready( function() {
 
   $("#wisconsin").click( function() {
     $("body").css({
-      "backgroundImage": "url('Images/wyomcap.jpg')"
+      "backgroundImage": "url('Images/wisconcap.jpg')"
     });
   });
 
 
   $("#puerto").click( function() {
     $("body").css({
-      "backgroundImage": "url('Images/wisconcap.jpg')"
+      "backgroundImage": "url('Images/prcap.jpg')"
     });
   });
 
